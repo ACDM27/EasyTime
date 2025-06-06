@@ -36,3 +36,6 @@ npm run serve
 ## 生产构建
 npm build
 
+## 项目截图
+- 计时器
+
