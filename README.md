@@ -37,5 +37,4 @@ npm run serve
 npm build
 
 ## 项目截图
-- 计时器
-
+- ![计时器](https://github.com/ACDM27/EasyTime/commit/2fedc02509845e872de0e28441d93b0978d33535#diff-729ca548b23f0139f3b2aba53f0482892dc4ee0d0d136321885c7219d9cc37ff)
